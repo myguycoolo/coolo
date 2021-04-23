@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Explanation-Information
-- 👀 I’m interested in Minecraft Bedrock Development
-- 🌱 I’m currently learning JavaScript, JSON and Python
+- 👀 I’m interested in Minecraft Bedrock/Java Development
+- 🌱 I’m currently learning JavaScript & Python
 - 💞️ I’m looking to collaborate on Minecraft Bedrock or Java related content and Web design/development projects
 - 📫 How to reach me @ExinfoMC on twitter.
 
